@@ -1,0 +1,33 @@
+{
+  "name": "synergia-grades-manager",
+  "version": "1.0.0",
+  "description": "Grades Manager for Librus Synergia",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mateusz Henicz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-ejs-extend": "0.0.1",
+    "express-minify": "^1.0.0",
+    "express-session": "^1.15.6",
+    "html-escape": "^2.0.0",
+    "less": "^2.7.3",
+    "scryptsy": "^2.0.0",
+    "sequelize": "^4.37.7",
+    "session-file-store": "^1.2.0",
+    "socket.io": "^2.1.0",
+    "mysql2": "^1.5.3",
+    "morgan": "^1.9.0",
+    "fetch-cookie": "^0.7.2",
+    "jsdom": "^12.0.0",
+    "node-fetch": "^2.2.0",
+    "readline-sync": "^1.4.9"
+  }
+}
