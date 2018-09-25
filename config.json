@@ -1,0 +1,18 @@
+{
+	"port": 1339,
+	"debug": true,
+	"session-secret": "cd18c21a37cc65adecb5e2021867a37e0aa3b5dd9a6e87ffdf299773b2ebc0ba5dddde08121591cf0da0fd43040a0325c153beed46b9eec39d7b43a393a64bee",
+	"database": {
+		"type": "mysql",
+		"sqlite": {
+			"file": "sgm.db"
+		},
+		"mysql": {
+			"host": "localhost",
+			"port": 3306,
+			"database": "sgm",
+			"username": "debug",
+			"password": "debug"
+		}
+	}
+}
