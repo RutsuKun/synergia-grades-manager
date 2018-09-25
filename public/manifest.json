@@ -1,0 +1,17 @@
+{
+  "icons": [
+    {
+      "src": "img/icon115x115.png",
+      "sizes": "115x115",
+      "type": "image/png"
+    }
+  ],
+  "name": "synergia grade manager",
+  "short_name": "sgm",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Grades Manager for Librus Synergia",
+  "background_color": "#212121",
+  "theme_color": "#212121"
+}
