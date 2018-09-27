@@ -1,7 +1,7 @@
 //
 //  Synergia Grades Manager
 //  by Mateusz Henicz
-//  25.09.2018
+//  27.09.2018
 //
 
 //
@@ -70,7 +70,7 @@ function registerRoutes(cfg, app) {
 		cache: path.join(__dirname, '../cache'),
 		uglifyJsModule: null,
 		errorHandler: null,
-		jsMatch: /javascript/,
+		/*jsMatch: /js/,*/
 		cssMatch: /css/,
 		jsonMatch: /json/,
 		lessMatch: /less/
